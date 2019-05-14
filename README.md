@@ -1,4 +1,4 @@
-# HttpClientInDepth
+# An In-depth Look at HttpClient
 Code for my "An in-depth look at HttpClient" session at Techorama 2019
 
 Description of the session: 
